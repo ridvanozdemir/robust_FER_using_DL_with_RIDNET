@@ -1,4 +1,4 @@
-# real_time_FER_using_DL_with_RIDNET
+# robust_FER_using_DL_with_RIDNET
 
 Link of paper: https://doi.org/10.35193/bseufbd.645138
 
